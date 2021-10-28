@@ -4,6 +4,7 @@ My files and scripts as I follow the official NLTK book available online at http
 ### Sentdex Checklist
 - [x] Word and Sentence tokenizers
 - [x] Stop Words
+- [x] Stemming
 
 
 ### Book Checklist
