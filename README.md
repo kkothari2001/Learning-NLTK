@@ -5,6 +5,7 @@ My files and scripts as I follow the official NLTK book available online at http
 - [x] Word and Sentence tokenizers
 - [x] Stop Words
 - [x] Stemming
+- [x] Parts of Speech Tagging
 
 
 ### Book Checklist
